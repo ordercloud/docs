@@ -1,4 +1,4 @@
-#Orders
+# Orders
 
 ## Create Order
 
@@ -9,20 +9,20 @@ Totals sent need to match the expected total.
 To create a [order](https://docs.ordercloud.com/#!/orders/CreateOrders)
 
 
-See [Available Delivery Methods](#delivery-types)
+See [Available Delivery Methods](orders/delivery.md#delivery-types)
 
 ### Order for pickup by client
 
-See [Pickup](#self-pickup)
+See [Pickup](delivery.md#self-pickup)
 
 ### Order for delivery
 
-See [Inhouse Delivery](#inhouse-delivery)
-See [External Delivery](### External Delivery)
+See [Inhouse Delivery](orders/delivery.md#inhouse-delivery)
+See [External Delivery](orders/delivery.md#external-delivery)
 
 ### Order for in-store customer
 
-See [In-store](#instore)
+See [In-store](orders/delivery.md##instore)
 
 ## Payments
 

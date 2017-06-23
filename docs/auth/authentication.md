@@ -15,7 +15,7 @@ If you did not receive your token please mail support@ordercloud.com.
 ## Username & Password /Pin
 
 <aside class="warning">
-It is only recommended you use credentials during testing. Use [JWT tokens](##JWT tokens) in production.
+It is only recommended you use credentials during testing. Use [JWT tokens](auth/jwt.md#JWT tokens) in production.
 </aside>
 
 
@@ -131,7 +131,7 @@ puts response.read_body
     Because of the length of the pin this method is unsafe
 </aside>
 
-Along with password we support the use of pin's for authentication. This is ideal for mobile clients. But is best used in conjunction with a [JWT token](##JWT tokens). So the pin is not passed around all the time.
+Along with password we support the use of pin's for authentication. This is ideal for mobile clients. But is best used in conjunction with a [JWT token](auth/jwt.md#JWT tokens). So the pin is not passed around all the time.
 
 <aside class="notice">
     If a pin is typed in three times incorrectly. The account will be locked and a reset pin will need to be triggered.
@@ -139,6 +139,4 @@ Along with password we support the use of pin's for authentication. This is idea
 
 ## Tokens
 
-Ordercloud uses [JWT tokens](#jwt-tokens) for their autentication scheme
-
-
+Ordercloud uses [JWT tokens](auth/jwt.md#JWT tokens) for their autentication scheme

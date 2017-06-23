@@ -1,8 +1,8 @@
 # Products Images
 
-Images on Ordercloud are served with cloud front CDN to make sure they are loaded as fast as possible for the user.
+Images on Ordercloud are served with Cloudfront CDN to make sure they are loaded as fast as possible for the user.
 
-##Types supported
+## Types supported
 
 Currently supported image are :
 * JPG
@@ -15,7 +15,7 @@ Currently supported image are :
 
 The maximum file size for an image accepted by the api is 5 MB (5120 B).
 
-###Dimensions
+### Dimensions
 
 <aside class="info">
     Images are automatically resized if larger while maintaining the width to height ratio.

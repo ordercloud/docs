@@ -261,7 +261,7 @@ To remove a  delivery area a call to [remove delivery area](https://docs.ordercl
 
 The delivery cost for an order can be [estimated by passing](https://docs.ordercloud.com/#!/orders/estimateDeliveryCost) the delivery location (geo) along with all the locations of pickup points for the order.
 
-If a organisation does [un-manged deliveries](#un-manged-deliveries) . It still has to set available [delivery area](#delivery-area) to use the estimate functionality.
+If a organisation does [un-manged deliveries](orders/delivery.md#un-manged-deliveries) . It still has to set available [delivery area](orders/delivery.md#delivery-area) to use the estimate functionality.
 
 ### Common Error messages
  Code       | Error           | Message | Reason
