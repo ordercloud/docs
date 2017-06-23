@@ -4,8 +4,8 @@
   - [Error Codes](error.md)
 
 - Products
-  - [Products](products/products.md)
-  - [Images](products/product_images.md)
+  - [Products](products/product.md)
+  - [Images](products/images.md)
 
 - Orders
   - [Orders](orders.md)
