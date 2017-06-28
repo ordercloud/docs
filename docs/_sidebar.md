@@ -5,16 +5,18 @@
   - [API Docs](api.md)
   - [How To](howto.md)
 
-- Product Catagories
+- Product Tags
   - [Concepts]()
-  - [Tags](products/tags.md)
+  - [Tags](product_tags/tags.md)
+  - [Sorting](product_tags/sorting.md)
 
 - Products
   - [Concepts]()
   - [Products](products/product.md)
   - [Images](products/images.md)
-  - [Search](products/images.md)
-  - [Discounts](library/options.md)
+  - [Sorting](products/sorting.md)
+  - [Search](products/search.md)
+  - [Discounts](products/discount.md)
 
 - Products Library
   - [Concepts]()
