@@ -40,7 +40,7 @@ Example of sorting
 
 ### Tag
 
-The product postion can be updated [here](hhttps://docs.ordercloud.com/#!/producttag/updateTag).
+The product postion can be updated [here](https://docs.ordercloud.com/#!/producttag/updateTag).
 
 Example of field
 
