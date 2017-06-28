@@ -17,7 +17,7 @@ If a custom sorting order is required a position can be set on the Products or T
 
 The field is called position and takes an integer value and duplicates are allowed.
 
-!> If not position is not set. Records will appear below the positioned ones in random order.
+!> If position is not set. Records will appear below the positioned ones in random order.
 
 ### Product
 
