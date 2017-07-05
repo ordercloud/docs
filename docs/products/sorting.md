@@ -6,10 +6,8 @@ Sorting products works by adding query parametes to the get calls for the produc
 For example . Sorting the products by name Alphabetically looks like the following.
 
 ```
-?sortProduct=name+
+?sortProduct=name-asc
 ```
-
-?> The + (Assending) or - (Descending) after the sort parameter defines which direction the sort is done.
 
 ## Position
 
@@ -33,10 +31,8 @@ Example of field
 
 Example of sorting
 ```
-?sortProduct=position+
+?sortProduct=position-asc
 ```
-
-?> The + (Assending) or - (Descending) after the sort parameter defines which direction the sort is done.
 
 ### Tag
 
@@ -51,19 +47,23 @@ Example of field
 ```
 
 Example of sorting
-```
-?sortTag=position+
-```
 
-?> The + (Assending) or - (Descending) after the sort parameter defines which direction the sort is done.
+
+ Options are position-asc , position-desc , name-asc or name-desc
+
+```
+?sortTag=position-asc
+```
 
 
 ## By Tag and Product
 
  Products can be sorted when using  [this](https://docs.ordercloud.com/#!/product/findByOrganisationGroupByTag) call. Product tags will be first sorted then products belonging to the tag.
 
+ Options are position-asc , position-desc , name-asc or name-desc
+
  Example
 
  ```
- ?sortTag=name+&sortProduct=position+
+ ?sortTag=name-asc&sortProduct=position-asc
  ```
