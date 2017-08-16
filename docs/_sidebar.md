@@ -3,15 +3,15 @@
   - [Authentication](auth/authentication.md)
   - [Error Codes](error.md)
   - [API Docs](api.md)
-  - [How To](howto.md)
+  <!-- - [How To](howto.md) -->
 
 - Product Tags
-  - [Concepts]()
+  <!-- - [Concepts]() -->
   - [Tags](product_tags/tags.md)
-  - [Sorting](product_tags/sorting.md)
+  <!-- - [Sorting](product_tags/sorting.md) -->
 
 - Products
-  - [Concepts]()
+  <!-- - [Concepts]() -->
   - [Products](products/product.md)
   - [Images](products/images.md)
   - [Sorting](products/sorting.md)
@@ -19,7 +19,7 @@
   - [Discounts](products/discount.md)
 
 - Products Library
-  - [Concepts]()
+  <!-- - [Concepts]() -->
   - [Products](library/product.md)
   - [Options](library/options.md)
   - [Extras](library/options.md)
@@ -27,7 +27,7 @@
 
 
 - Orders
-  - [Concepts]()
+  <!-- - [Concepts]() -->
   - [Orders](orders/orders.md)
   - [Delivery](orders/delivery.md)
 
