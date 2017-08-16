@@ -113,7 +113,7 @@ GET /organisations/{organisationId}/connections?status=CONNECTED&showDisabled=tr
 
 ### Enable a connection
 
-A connection can be enabel with this [call](https://docs.ordercloud.com/#!/connections/enableConnection)
+A connection can be enabled with this [call](https://docs.ordercloud.com/#!/connections/enableConnection)
 
 Enabled Connections for an organisaiton can be viewed by making a call to [view connections](https://docs.ordercloud.com/#!/organisations/findConnectionByOrganisation) and the showDisabled parameter.
 
