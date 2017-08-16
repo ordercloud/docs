@@ -30,3 +30,7 @@
   - [Concepts]()
   - [Orders](orders/orders.md)
   - [Delivery](orders/delivery.md)
+
+- Connections
+  - [Concepts](connections/concepts.md)
+  - [Connections](connections/connections.md)
